@@ -3,6 +3,23 @@
   <img src="https://profile-counter.glitch.me/ErdemBey0/count.svg" />
 </p>
 
+##
+##
+<p align="center">
+  <a href="https://github.com/erdembey0">
+    <img src="https://komarev.com/ghpvc/?username=erdembey0&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+  </a>
+  <a href="https://github.com/erdembey0?tab=stars">
+    <img src="https://img.shields.io/github/stars/erdembey0?color=ff69b4&label=Stargazers&style=plastic">
+
+  </a>
+  <a href="https://github.com/erdembey0?tab=followers">
+    <img src="https://img.shields.io/github/followers/erdembey0?color=ff69b4&label=Followers&style=plastic">
+
+  </a>
+</p>
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
