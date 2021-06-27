@@ -15,7 +15,11 @@
 <a href="https://t.me/hydradev"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/hydradestek"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-[![Erdem Bey's github stats](https://github-readme-stats.vercel.app/api?username=ErdemBey0&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ErdemBey0) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemBey0&layout=compact&theme=cobalt)](https://github.com/ErdemBey0)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdembey0&show_icons=true&layout=compact&theme=nightowl" alt="erdembey0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdembey0&show_icons=true&theme=nightowl" alt="erdembey0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdembey0&theme=nightowl" alt="erdembey0" /></p>
 
 
 
