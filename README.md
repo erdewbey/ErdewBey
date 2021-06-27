@@ -13,7 +13,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <a href="https://t.me/hydradev"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/hydrasupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/hydradestek"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 [![Erdem Bey's github stats](https://github-readme-stats.vercel.app/api?username=ErdemBey0&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ErdemBey0) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemBey0&layout=compact&theme=cobalt)](https://github.com/ErdemBey0)
 
