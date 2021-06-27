@@ -1,7 +1,7 @@
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/ErdemBey0/count.svg" />
-##
+
 <p align="center">
   <a href="https://github.com/erdembey0">
     <img src="https://komarev.com/ghpvc/?username=erdembey0&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
