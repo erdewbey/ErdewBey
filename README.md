@@ -1,18 +1,18 @@
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/ErdemBey0/count.svg" />
+  <img src="https://profile-counter.glitch.me/Erdewbey/count.svg" />
 
 <p align="center">
-  <a href="https://github.com/erdembey0">
-    <img src="https://komarev.com/ghpvc/?username=erdembey0&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/erdewbey">
+    <img src="https://komarev.com/ghpvc/?username=erdewbey&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/erdembey0?tab=stars">
-    <img src="https://img.shields.io/github/stars/erdembey0?color=ff69b4&label=Stargazers&style=plastic">
+  <a href="https://github.com/erdewbey?tab=stars">
+    <img src="https://img.shields.io/github/stars/erdewbey?color=ff69b4&label=Stargazers&style=plastic">
 
   </a>
-  <a href="https://github.com/erdembey0?tab=followers">
-    <img src="https://img.shields.io/github/followers/erdembey0?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/erdewbey?tab=followers">
+    <img src="https://img.shields.io/github/followers/erdewbey?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -20,21 +20,21 @@
 <h3 align="left">Sosyal Medya:</h3>
 <p align="left">
 <a href="https://instagram.com/erdewbey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="erdewbey" height="30" width="40" /></a>
-<a href="https://t.me/erdembey1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="erdewbey" height="30" width="40" /></a>
+<a href="https://t.me/erdewbey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="erdewbey" height="30" width="40" /></a>
 </p>
 
 ##
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<a href="https://t.me/hydradev"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/hydradestek"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/owenprojects"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/owensupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdembey0&show_icons=true&layout=compact&theme=nightowl" alt="erdembey0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdewbey&show_icons=true&layout=compact&theme=nightowl" alt="erdewbey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdembey0&show_icons=true&theme=nightowl" alt="erdembey0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdewbey&show_icons=true&theme=nightowl" alt="erdewbey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdembey0&theme=nightowl" alt="erdembey0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdewbey&theme=nightowl" alt="erdewbey" /></p>
 
 
 
