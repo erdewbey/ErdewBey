@@ -1,6 +1,24 @@
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Erdewbey/count.svg" />
+  <hr>
+  <h2 align="center">
+   <b> HELLO WORLD </b>
+  <h2>
+  <p align=center>
+    <div align=center>
+      <a href="https://t.me/erdewbey">
+        <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=erdewbey&theme=react&border=00f3e3&stroke=00f3e3&ring=00f3e3&fire=ff8800&hide_border=true&theme=highcontrast"/>
+      </a>
+      <a href="https://t.me/erdewbey">
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=erdewbey&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=True&locale=en&icon_color=00c1b1&text_color=dddddd&title_color=00f3e3&hide_border=true"/>
+      </a>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br>
+    <div align=center>
+      <a href="https://t.me/erdewbey">
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdewbey&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00f3e3&text_color=dddddd&icon_color=00f3e3&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
+    <br>
+    
 
 <p align="center">
   <a href="https://github.com/erdewbey">
@@ -13,35 +31,12 @@
   </a>
   <a href="https://github.com/erdewbey?tab=followers">
     <img src="https://img.shields.io/github/followers/erdewbey?color=ff69b4&label=Followers&style=plastic">
-
   </a>
-</p>
   
-<h3 align="left">Sosyal Medya:</h3>
-<p align="left">
-<a href="https://instagram.com/erdewbey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="erdewbey" height="30" width="40" /></a>
-<a href="https://t.me/erdewbey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="erdewbey" height="30" width="40" /></a>
+</p>
+<p align="center">
+  <a href="https://t.me/owenprojects"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+  <a href="https://t.me/owensupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 </p>
 
-##
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<a href="https://t.me/owenprojects"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/owensupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdewbey&show_icons=true&layout=compact&theme=nightowl" alt="erdewbey" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdewbey&show_icons=true&theme=nightowl" alt="erdewbey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erdewbey&theme=nightowl" alt="erdewbey" /></p>
-
-
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Aradığınız Herşey Burada Bulunmakta
-
-
-
- <h3 alilefgn="left">Araçlar Ve Diller:</h3>
-
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+  <hr>
